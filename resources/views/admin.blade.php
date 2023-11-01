@@ -4,11 +4,11 @@
             <div class="col-12 col-md-8 col-lg-6 pt-2 bg-secondary rounded">
                 <x-tab-nav :tabs="$navTabs">
                     <x-tab-pane id="race-tab" :active="true" :show="true">
-                        dig bigger nick
+                        Lorem ipsum
                     </x-tab-pane>
 
                     <x-tab-pane id="class-tab">
-                        Communism :)
+                        Lorem ipsum
                     </x-tab-pane>
 
                     <x-tab-pane id="spell-tab">
@@ -16,11 +16,11 @@
                     </x-tab-pane>
 
                     <x-tab-pane id="feat-tab">
-                        Amongst us
+                        Lorem ipsum
                     </x-tab-pane>
 
                     <x-tab-pane id="monster-tab">
-                        Amongst us
+                        Lorem ipsum
                     </x-tab-pane>
                 </x-tab-nav>
             </div>
